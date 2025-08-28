@@ -1,10 +1,10 @@
 # 🧭 System Description Specification (SDS)
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+7. Stefán Steinar Guðlaugsson, Dagur Ingi Viðar.
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Nemandakerfi fyrir námsmat
 
 ## Hvað er kerfið?
 Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
