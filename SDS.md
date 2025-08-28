@@ -7,10 +7,10 @@
 Nemandakerfi fyrir námsmat
 
 ## Hvað er kerfið?
-Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
+Kerfið á að halda utan um einkunir mætingu og stöðumat nemenda.
 
 ## Tilgangur
-Hvert er meginmarkmiðið með kerfinu? (t.d. einfalda ferli, bæta yfirsýn, stytta afgreiðslutíma)
+einfalda námsmat fyrir nemendur.
 
 ## Afmörkun (umfang viku 2)
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
