@@ -13,7 +13,7 @@ Kerfið á að halda utan um einkunir mætingu og stöðumat nemenda.
 einfalda námsmat fyrir nemendur.
 
 ## Afmörkun (umfang viku 2)
-**Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
+**Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert. abc 
 **Utan scope:** Hvað kerfið nær **ekki** yfir núna (til að halda fókus).
 
 ## Ytri tenging 
