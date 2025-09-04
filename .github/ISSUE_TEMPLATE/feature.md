@@ -17,9 +17,8 @@ assignees: []
 - [ ] Miðlungs
 - [ ] Hár
 
-##
 ---
-name: Fídus 1
+name: Fídus 2
 about: Skrá valfrjálsan eiginleika (feature)
 title: "[Feature] "
 labels: [feature]
@@ -37,9 +36,8 @@ assignees: []
 - [ ] Miðlungs
 - [ ] Hár
 
-##
 ---
-name: Fídus 1
+name: Fídus 3
 about: Skrá valfrjálsan eiginleika (feature)
 title: "[Feature] "
 labels: [feature]
