@@ -152,13 +152,18 @@ Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er 
 - Skilgreina lykilhugtök.
   | Hugtak | Skýring |
   | ------------------------ | -------------------------------------------------------------------------------------------------------- |
+  | **SRS** | _Software Requirements Specification_ – skjölun á kröfum og virkni hugbúnaðar. |
+  | **Issue** | Umræða/atriði í GitHub sem tengist ákveðinni kröfu eða verkefni. |
   | **Nemandi** | Notandi kerfisins sem notar það til að fylgjast með eigin frammistöðu, einkunnum og mætingu. |
   | **Kennari** | Notandi kerfisins sem skráir einkunnir, mætingu og fylgist með árangri nemenda. |
+  | **Áfangi** | Námskeið eða fag innan háskólans sem hefur einkunnir, verkefni og próf. |
+  | **Einkunn** | Tölulegt mat á frammistöðu nemanda í verkefni, prófi eða námskeiði. |
   | **Mæting** | Skráning á viðveru nemenda í kennslustundum, sérstaklega þar sem skyldumæting gildir. |
+  | **Stöðumat** | Yfirlit og myndræn framsetning á námsárangri nemanda ásamt spá um lokaeinkunn. |
   | **Lokaeinkunn** | Heildareinkunn í áfanga sem byggir á verkefnum, prófum og öðrum matsþáttum. |
   | **Canvas** | Námsumsjónarkerfi (LMS) sem kerfið er hluti af, notað af háskólum til að stjórna námskeiðum. |
   | **Canvas Module** | Hluti eða viðbót við Canvas kerfið sem bætir við nýrri virkni. |
-  | **Gradescope** | Ytra kerfi til að meta verkefni og próf. |
+  | **Gradescope** | Ytra kerfi til að meta verkefni og próf, sem tengist við Canvas til að flytja einkunnir. |
   | **SSO** | _Single Sign-On_ – innskráningarlausn þar sem notandi notar sömu auðkenningu fyrir mörg kerfi. |
   | **Viðskiptakrafa (BR)** | Hátt sett krafa sem lýsir markmiði eða ávinningi fyrir viðskiptin (t.d. betri yfirsýn, minni brottfall). |
   | **Kerfiskrafa (SR)** | Krafa sem lýsir því hvernig kerfið á að hegða sér eða hvaða þjónustu það þarf að veita. |
