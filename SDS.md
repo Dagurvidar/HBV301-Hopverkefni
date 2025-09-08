@@ -55,8 +55,8 @@ Tölvupóst-/tilkynningakerfi (SMTP, push notification þjónustur).
 
 
 ## Verkaskipting
-- Dagur gerði 2 Viðskiptakröfur og Kerfiskröfu, Stefán Gerði 3 Fídusa og restin var skipt 50/50 á milli okkar. Dagur gerði SRS, Stefán gerði SDS.
-- Allt fyrir utan SDS og SRS var sett inn á Issues þar sem við gátum séð framistöðuna á kröfunum sem við vorum að vinna í.
+- Dagur gerði Viðskiptakröfur, Kerfiskröfu, viðskiptareglur og óvirkniskröfur, Stefán Gerði Fídusa, notendakröfur og virkniskröfur. Dagur gerði SRS, Stefán gerði SDS.
+- Allt fyrir utan SDS og SRS var sett inn á Issues og project þar sem við gátum séð framistöðuna á kröfunum sem við vorum að vinna í.
 - push var gert með Visual Studio Code, pull og commit inn á github
 
 ## Ígrundun 
@@ -64,5 +64,7 @@ Tölvupóst-/tilkynningakerfi (SMTP, push notification þjónustur).
     ### Hvað gekk vel í verkefninu
   það gékk vel að skipta á milli okkar verkefnum og að velja hvað við vildum vinna með. 
 
-    ### Hvað má bæta næst
-  mættum rýna betur hvað hvor annar eða að gera næst.
+## Hvað má bæta næst
+-Hefðum geta hist oftar til að fínpússa verkefnið
+  
+
