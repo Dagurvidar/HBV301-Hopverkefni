@@ -1,56 +1,19 @@
 ---
-name: Fídus 1
-about: Skrá valfrjálsan eiginleika (feature)
-title: "[Feature] "
-labels: [feature]
-assignees: []
----
+name: Fídus
+about: Skrá valfrjálsan eiginleika (feature) 
+title: "[Feature] " 
+labels: [feature] 
+assignees: [] 
+--- 
 
-## ✨ Lýsing
-> Hver er eiginleikinn sem er til viðbótar við kjarnavirkni?
+## ✨ 
+Lýsing > Hver er eiginleikinn sem er til viðbótar við kjarnavirkni? 
+## ✅ Ástæða eða virði > Hvers vegna gæti verið gagnlegt að bæta þessu við? 
 
-## ✅ Ástæða eða virði
-> Hvers vegna gæti verið gagnlegt að bæta þessu við?
-
-## ⚖️ Forgangur
+## ⚖️ Forgangur 
 - [ ] Lágur
 - [ ] Miðlungs
 - [ ] Hár
 
----
-name: Fídus 2
-about: Skrá valfrjálsan eiginleika (feature)
-title: "[Feature] "
-labels: [feature]
-assignees: []
----
 
-## ✨ Lýsing
-> Hver er eiginleikinn sem er til viðbótar við kjarnavirkni?
 
-## ✅ Ástæða eða virði
-> Hvers vegna gæti verið gagnlegt að bæta þessu við?
-
-## ⚖️ Forgangur
-- [ ] Lágur
-- [ ] Miðlungs
-- [ ] Hár
-
----
-name: Fídus 3
-about: Skrá valfrjálsan eiginleika (feature)
-title: "[Feature] "
-labels: [feature]
-assignees: []
----
-
-## ✨ Lýsing
-> Hver er eiginleikinn sem er til viðbótar við kjarnavirkni?
-
-## ✅ Ástæða eða virði
-> Hvers vegna gæti verið gagnlegt að bæta þessu við?
-
-## ⚖️ Forgangur
-- [ ] Lágur
-- [ ] Miðlungs
-- [ ] Hár
