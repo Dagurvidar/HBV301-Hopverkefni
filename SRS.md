@@ -61,97 +61,87 @@ Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er 
 
 ### 3.1 Viðskiptakröfur
 
-| ID  | Lýsing                    | Issue                  |
-| --- | ------------------------- | ---------------------- |
-| BR1 | [Lýsing á viðskiptakröfu] | [#12](../../issues/12) |
-| BR2 | [Lýsing á viðskiptakröfu] | [#13](../../issues/13) |
+| ID  | Lýsing                                                                           | Issue |
+| --- | -------------------------------------------------------------------------------- | ----- |
+| BR1 | [Bæta skipulag nemenda m.þ.a. halda utan um einkunnir á einum stað]              | [#5]  |
+| BR2 | [Halda utan um mætingu nemenda og veita viðvaranir ef próftökuréttur er í hættu] | [#6]  |
 
 ### 3.2 Kerfiskrafa
 
-| ID  | Lýsing                 | Issue                  |
-| --- | ---------------------- | ---------------------- |
-| SR1 | [Lýsing á kerfiskröfu] | [#14](../../issues/14) |
+| ID  | Lýsing                                                                              | Issue |
+| --- | ----------------------------------------------------------------------------------- | ----- |
+| SR1 | [Kerfið skal birta viðmót fyrir mætingu og einkunnir í Canvas undir hverjum áfanga] | [#7]  |
 
 ### 3.3 Fídusar (Features)
 
-| ID  | Lýsing            | Issue                  |
-| --- | ----------------- | ---------------------- |
-| F1  | [Lýsing á fídusi] | [#15](../../issues/15) |
-| F2  | [Lýsing á fídusi] | [#16](../../issues/16) |
-| F3  | [Lýsing á fídusi] | [#17](../../issues/17) |
+| ID  | Lýsing                              | Issue |
+| --- | ----------------------------------- | ----- |
+| F1  | [Innsending verkefna og prófa]      | [#8]  |
+| F2  | [Einkunnagjöf og endurgjöf kennara] | [#10] |
+| F3  | [Yfirlit yfir námsframvindu]        | [#11] |
 
 ### 3.4 Notendakröfur
 
-| ID  | Lýsing           | Fídus | Issue                  |
-| --- | ---------------- | ----- | ---------------------- |
-| UR1 | [Notendakrafa 1] | F1    | [#18](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1    | [#19](../../issues/19) |
-| UR3 | [Notendakrafa 3] | F2    | [#20](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2    | [#21](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3    | [#22](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3    | [#23](../../issues/23) |
+| ID  | Lýsing                                                                                                                    | Fídus | Issue |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | ----- | ----- |
+| UR1 | [Sem nemandi vil ég geta skilað verkefnum rafrænt í kerfið svo að ég þurfi ekki að skila á pappír eða með tölvupósti]     | F1    | [#9]  |
+| UR2 | [Nemendur geta séð einkunnir sínar og hversu hátt þær gilda að lokaeinkunn]                                               | F1    | [#12] |
+| UR3 | [Sem nemandi vil ég fá staðfestingu þegar ég hef skilað verkefni svo að ég viti að skilin hafi tekist]                    | F2    | [#16] |
+| UR4 | [Sem kennari vil ég geta skráð einkunnir beint í kerfið svo að nemendur hafi strax aðgang að þeim]                        | F2    | [#17] |
+| UR5 | [Sem nemandi vil ég geta skoðað endurgjöf frá kennara svo að ég læri af verkefnum og prófum]                              | F3    | [#19] |
+| UR6 | [Sem kennari vil ég geta séð heildaryfirlit yfir námsárangur hópsins svo að ég geti metið hvort kennsluaðferðirnar virki] | F3    | [#20] |
 
 ### 3.5 Virknikröfur
 
-| ID   | Lýsing                           | Notendakrafa | Issue                  |
-| ---- | -------------------------------- | ------------ | ---------------------- |
-| FR1  | [Virkni sem styður notendakröfu] | UR1          | [#24](../../issues/24) |
-| FR2  | [Önnur virkni]                   | UR1          | [#25](../../issues/25) |
-| FR3  | [Önnur virkni]                   | UR1          | [#26](../../issues/26) |
-| FR4  | [Virkni]                         | UR2          | [#27](../../issues/27) |
-| FR5  | [Virkni]                         | UR2          | [#28](../../issues/28) |
-| FR6  | [Virkni]                         | UR2          | [#29](../../issues/29) |
-| FR7  | [Virkni]                         | UR3          | [#30](../../issues/30) |
-| FR8  | [Virkni]                         | UR3          | [#31](../../issues/31) |
-| FR9  | [Virkni]                         | UR3          | [#32](../../issues/32) |
-| FR10 | [Virkni]                         | UR4          | [#33](../../issues/33) |
-| FR11 | [Virkni]                         | UR4          | [#34](../../issues/34) |
-| FR12 | [Virkni]                         | UR4          | [#35](../../issues/35) |
-| FR13 | [Virkni]                         | UR5          | [#36](../../issues/36) |
-| FR14 | [Virkni]                         | UR5          | [#37](../../issues/37) |
-| FR15 | [Virkni]                         | UR5          | [#38](../../issues/38) |
-| FR16 | [Virkni]                         | UR6          | [#39](../../issues/39) |
-| FR17 | [Virkni]                         | UR6          | [#40](../../issues/40) |
-| FR18 | [Virkni]                         | UR6          | [#41](../../issues/41) |
+| ID   | Lýsing                                                                                                                           | Notendakrafa | Issue |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----- |
+| FR1  | [Kerfið á að leyfa nemanda að hlaða upp verkefnaskrá í PDF eða DOCX formi.]                                                      | UR1          | [#27] |
+| FR2  | [Kerfið á að vista skrá með tengingu við réttan áfanga og réttan skilafrest.]                                                    | UR1          | [#28] |
+| FR3  | [Kerfið á að gefa villuboð ef skráin er í röngu sniði eða of stór.]                                                              | UR1          | [#29] |
+| FR4  | [Kerfið á að birta staðfestingarskilaboð eftir að verkefni hefur verið skilað.]                                                  | UR2          | [#30] |
+| FR5  | Kerfið á að senda tölvupóst eða tilkynningu í appi þegar skil hefur verið móttekið.[]                                            | UR2          | [#31] |
+| FR6  | [Kerfið á að geyma skráða staðfestingu sem nemandi getur skoðað síðar.]                                                          | UR2          | [#32] |
+| FR7  | [Kerfið á að leyfa kennara að skrá einkunn á verkefni eða próf.                                                                  |
+| ]    | UR3                                                                                                                              | [#33]        |
+| FR8  | [Kerfið á að tryggja að aðeins skráðir kennarar geti skráð einkunnir.]                                                           | UR3          | [#34] |
+| FR9  | [Kerfið á að vista einkunnir varanlega og leyfa útflutning í CSV/Excel.]                                                         | UR3          | [#35] |
+| FR10 | [Kerfið á að leyfa kennara að skrifa texta sem endurgjöf við verkefni.]                                                          | UR4          | [#36] |
+| FR11 | [Kerfið á að sýna endurgjöf á sama stað og einkunnir.]                                                                           | UR4          | [#37] |
+| FR12 | [Kerfið á að leyfa nemanda að skoða eldri endurgjafir aftur hvenær sem er.]                                                      | UR4          | [#38] |
+| FR13 | [Kennari skoðar áfanga og sér dreifirit yfir einkunnir allra nemenda.]                                                           | UR5          | [#39] |
+| FR14 | [Kerfið á að sýna meðaleinkunn og staðalfrávik fyrir bekkinn.]                                                                   | UR5          | [#40] |
+| FR15 | [Kerfið á að leyfa útflutning á árangursgögnum fyrir hópinn í Excel/CSV.]                                                        | UR5          | [#41] |
+| FR16 | [Kerfið skal sýna samanburð á einkunnum í hverjum áfanga með vægi þeirra í heildareinkunn.]                                      | UR6          | [#42] |
+| FR17 | [Kerfið skal leyfa nemanda að sía eða flokka einkunnir eftir áföngum, verkefnum eða prófum.]                                     | UR6          | [#43] |
+| FR18 | [Kerfið skal veita yfirlit í myndrænu formi (t.d. súlurit eða línurit) sem sýnir hvernig einkunnir leggja saman að lokaeinkunn.] | UR6          | [#44] |
 
 ### 3.6 Viðskiptareglur
 
-| ID   | Lýsing           | Issue                  |
-| ---- | ---------------- | ---------------------- |
-| BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
-| BRG2 | [Viðskiptaregla] | [#43](../../issues/43) |
+| ID   | Lýsing                                             | Issue |
+| ---- | -------------------------------------------------- | ----- |
+| BRG1 | [Aðeins kennari getur skráð mætingu nemenda]       | [#13] |
+| BRG2 | [Kennari hefur tvo virka daga til að skrá mætingu] | [#14] |
 
-### 3.7 Óvirknikröfur
+### 3.7 Gæðaeiginleikar
 
-| ID   | Lýsing         | Issue                  |
-| ---- | -------------- | ---------------------- |
-| NFR1 | [Óvirknikrafa] | [#44](../../issues/44) |
-| NFR2 | [Óvirknikrafa] | [#45](../../issues/45) |
-| NFR3 | [Óvirknikrafa] | [#46](../../issues/46) |
-| NFR4 | [Óvirknikrafa] | [#47](../../issues/47) |
-| NFR5 | [Óvirknikrafa] | [#48](../../issues/48) |
-| NFR6 | [Óvirknikrafa] | [#49](../../issues/49) |
+| ID  | Lýsing                                                                                             | Issue |
+| --- | -------------------------------------------------------------------------------------------------- | ----- |
+| QR1 | [Yfirlit einkunna og mætinga skal vera á sömu síðu]                                                | [#18] |
+| QR2 | [Kerfið ætti alltaf að innihalda allar einkunnir sem nemandi hefur fengið um leið og hann fær þær] | [#15] |
 
-### 3.8 Gæðaeiginleikar
+### 3.8 Takmarkanir
 
-| ID  | Lýsing           | Issue                  |
-| --- | ---------------- | ---------------------- |
-| QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
+| ID  | Lýsing                                                                                                                              | Issue |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| C1  | [Kerfið verður að útfæra sem Canvas Module, þ.e. hluti af Canvas]                                                                   | [#23] |
+| C2  | [Forritið verður að fá einkunnir frá öppum eins og Gradescope frekar en að kennari setji einkunnir inn á bæði Canvas og Gradescope] | [#24] |
 
-### 3.9 Takmarkanir
+### 3.9 Ytri skil (Interfaces)
 
-| ID  | Lýsing      | Issue                  |
-| --- | ----------- | ---------------------- |
-| C1  | [Takmörkun] | [#52](../../issues/52) |
-| C2  | [Takmörkun] | [#53](../../issues/53) |
-
-### 3.10 Ytri skil (Interfaces)
-
-| ID  | Lýsing      | Issue                  |
-| --- | ----------- | ---------------------- |
-| IF1 | [Ytra skil] | [#54](../../issues/54) |
-| IF2 | [Ytra skil] | [#55](../../issues/55) |
+| ID  | Lýsing                                                                                                           | Issue |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ----- |
+| IF1 | [Einkunnakerfið mun ná í einkunnir frá forritum utan Canvas í gegnum tilsvarandi tæknir (API, file export etc.)] | [#25] |
+| IF2 | [Einkunna-/mætingarkerfið mun fá upplýsingar um hver notandi er í gegnum Canvas SSO]                             | [#26] |
 
 ---
 
