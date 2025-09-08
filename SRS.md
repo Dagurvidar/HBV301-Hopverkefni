@@ -39,7 +39,13 @@ Notendur ættu að sjá graf yfir það hvernig þau hafa staðið sig í hverju
 
 ### 2.1 Notendahópar
 
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+Nemendur nota kerfið til þess að
+
+1. Fylgjast með árangri sínum í hverjum áfanga fyrir sig.
+2. Sjá spá fyrir lokaeinkunn fyrir verkefni.
+3. Tryggja það að þeir missi ekki próftökurétt vegna skort á mætingu t.d. í dæmatíma m.a. með því að fá viðvörun þegar þeir eru nálægt því.
+
+Kennarar nota kerfið til að
 
 ### 2.2 Viðskiptaávinningur
 
