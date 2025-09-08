@@ -39,11 +39,21 @@ Notendur ættu að sjá graf yfir það hvernig þau hafa staðið sig í hverju
 
 ### 2.1 Notendahópar
 
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+Nemendur nota kerfið til þess að
+
+1. Fylgjast með árangri sínum í hverjum áfanga fyrir sig.
+2. Sjá spá fyrir lokaeinkunn fyrir verkefni.
+3. Tryggja það að þeir missi ekki próftökurétt vegna skort á mætingu t.d. í dæmatíma m.a. með því að fá viðvörun þegar þeir eru nálægt því.
+
+Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er gert m.þ.a. gefa þeim nánari upplýsingar og spár um einkunnir nemenda sinna
 
 ### 2.2 Viðskiptaávinningur
 
-- Hver er ávinningurinn fyrir fyrirtæki eða notendur?
+- Minni hætta á að nemendur ruglist og nái ekki próftökurétti út af mætingu. Þetta minnkar hlutfall nemenda sem falla af þeirri ástæðu.
+- Bætir námsupplifun með einföldu viðmóti og sameiginlegri geymslu á öllum einkunnum og mætingu.
+- Bætir námsframvindu með því að upplýsa nemendur um hvernig þeim gengur yfir önnina og hjálpar þeim að setja markmið með því að spá fyrir loka verkefnaeinkunn.
+- Minnkar hlutfall nemenda sem falla með því að segja þeim fyrirfram hvað þeir þurfa háa einkunn til að ná áfanganum (Gjarnan er ekki nóg að fá bara yfir 4.5 í áfanga heldur líka ákveðið háa lokaeinkunn).
+- Gefur kennurum einn stað til að skrá og fara yfir allar einkunnir sem sparar þeim tíma og gefur þeim betri yfirsýn yfir hvernig áfanganum gengur.
 
 ---
 
