@@ -101,8 +101,7 @@ Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er 
 | FR4  | [Kerfið á að birta staðfestingarskilaboð eftir að verkefni hefur verið skilað.]                                                  | UR2          | [#30] |
 | FR5  | Kerfið á að senda tölvupóst eða tilkynningu í appi þegar skil hefur verið móttekið.[]                                            | UR2          | [#31] |
 | FR6  | [Kerfið á að geyma skráða staðfestingu sem nemandi getur skoðað síðar.]                                                          | UR2          | [#32] |
-| FR7  | [Kerfið á að leyfa kennara að skrá einkunn á verkefni eða próf.                                                                  |
-| ]    | UR3                                                                                                                              | [#33]        |
+| FR7  | [Kerfið á að leyfa kennara að skrá einkunn á verkefni eða próf.]                                                                 | UR3          | [#33] |
 | FR8  | [Kerfið á að tryggja að aðeins skráðir kennarar geti skráð einkunnir.]                                                           | UR3          | [#34] |
 | FR9  | [Kerfið á að vista einkunnir varanlega og leyfa útflutning í CSV/Excel.]                                                         | UR3          | [#35] |
 | FR10 | [Kerfið á að leyfa kennara að skrifa texta sem endurgjöf við verkefni.]                                                          | UR4          | [#36] |
