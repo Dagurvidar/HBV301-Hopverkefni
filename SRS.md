@@ -172,3 +172,4 @@ Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er 
 
 - Kennari: **\*\*\*\***\_\_\_\_**\*\*\*\***
 - Nemandi: Stefán Steinar Guðlaugsson, Dagur Ingi Viðar
+
