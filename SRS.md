@@ -101,8 +101,7 @@ Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er 
 | FR4  | [Kerfið á að birta staðfestingarskilaboð eftir að verkefni hefur verið skilað.]                                                  | UR2          | [#30] |
 | FR5  | Kerfið á að senda tölvupóst eða tilkynningu í appi þegar skil hefur verið móttekið.[]                                            | UR2          | [#31] |
 | FR6  | [Kerfið á að geyma skráða staðfestingu sem nemandi getur skoðað síðar.]                                                          | UR2          | [#32] |
-| FR7  | [Kerfið á að leyfa kennara að skrá einkunn á verkefni eða próf.                                                                  |
-| ]    | UR3                                                                                                                              | [#33]        |
+| FR7  | [Kerfið á að leyfa kennara að skrá einkunn á verkefni eða próf.]                                                                 | UR3          | [#33] |
 | FR8  | [Kerfið á að tryggja að aðeins skráðir kennarar geti skráð einkunnir.]                                                           | UR3          | [#34] |
 | FR9  | [Kerfið á að vista einkunnir varanlega og leyfa útflutning í CSV/Excel.]                                                         | UR3          | [#35] |
 | FR10 | [Kerfið á að leyfa kennara að skrifa texta sem endurgjöf við verkefni.]                                                          | UR4          | [#36] |
@@ -150,6 +149,24 @@ Kennarar nota kerfið til að fylgjast með framgangi námskeiðsins. Þetta er 
 ### 4.1 Orðalisti
 
 - Skilgreina lykilhugtök.
+  | Hugtak | Skýring |
+  | ------------------------ | -------------------------------------------------------------------------------------------------------- |
+  | **Nemandi** | Notandi kerfisins sem notar það til að fylgjast með eigin frammistöðu, einkunnum og mætingu. |
+  | **Kennari** | Notandi kerfisins sem skráir einkunnir, mætingu og fylgist með árangri nemenda. |
+  | **Mæting** | Skráning á viðveru nemenda í kennslustundum, sérstaklega þar sem skyldumæting gildir. |
+  | **Lokaeinkunn** | Heildareinkunn í áfanga sem byggir á verkefnum, prófum og öðrum matsþáttum. |
+  | **Canvas** | Námsumsjónarkerfi (LMS) sem kerfið er hluti af, notað af háskólum til að stjórna námskeiðum. |
+  | **Canvas Module** | Hluti eða viðbót við Canvas kerfið sem bætir við nýrri virkni. |
+  | **Gradescope** | Ytra kerfi til að meta verkefni og próf. |
+  | **SSO** | _Single Sign-On_ – innskráningarlausn þar sem notandi notar sömu auðkenningu fyrir mörg kerfi. |
+  | **Viðskiptakrafa (BR)** | Hátt sett krafa sem lýsir markmiði eða ávinningi fyrir viðskiptin (t.d. betri yfirsýn, minni brottfall). |
+  | **Kerfiskrafa (SR)** | Krafa sem lýsir því hvernig kerfið á að hegða sér eða hvaða þjónustu það þarf að veita. |
+  | **Notendakrafa (UR)** | Krafa sem lýsir því sem notandi vill geta gert í kerfinu. |
+  | **Virknikrafa (FR)** | Nánari tæknileg lýsing á því hvernig kerfið á að framkvæma ákveðna aðgerð. |
+  | **Viðskiptaregla (BRG)** | Reglur sem stýra notkun eða hegðun kerfisins (t.d. hver má skrá mætingu). |
+  | **Gæðaeiginleiki (QR)** | Krafa sem tryggir notagildi, nákvæmni eða skilvirkni kerfisins. |
+  | **Takmörkun (C)** | Skilyrði eða hömlur sem kerfið þarf að fylgja (t.d. að vera hluti af Canvas). |
+  | **Ytri skil (IF)** | Lýsing á tengingum við önnur kerfi, forrit eða þjónustur (API, SSO, file export). |
 
 ### 4.2 Samþykktir
 
