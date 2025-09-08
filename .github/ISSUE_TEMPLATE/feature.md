@@ -1,5 +1,5 @@
 ---
-name: Fídus 1 
+name: Fídus
 about: Skrá valfrjálsan eiginleika (feature) 
 title: "[Feature] " 
 labels: [feature] 
