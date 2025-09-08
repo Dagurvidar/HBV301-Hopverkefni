@@ -20,7 +20,7 @@ einfalda námsmat fyrir nemendur.
 Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við síðar.
 
 ## Tenging við SRS
-- Sjá nánari kröfuskipan í `SRS.md` (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
+- Sjá nánari kröfuskipan í [SRS](SRS.md) (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
 
 
 ## Verkaskipting
